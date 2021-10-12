@@ -47,12 +47,12 @@ const Layout = ({ children }) => {
 	const menuItems = [
 		{
 			text: 'Home',
-			icon: <HomeOutlined color='secondary' />,
+			icon: <HomeOutlined color='primary' />,
 			path: '/',
 		},
 		{
 			text: 'All Quotes',
-			icon: <FormatQuoteOutlined color='secondary' />,
+			icon: <FormatQuoteOutlined color='primary' />,
 			path: '/all-quotes',
 		},
 	];
