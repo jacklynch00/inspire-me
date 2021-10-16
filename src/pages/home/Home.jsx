@@ -58,7 +58,7 @@ const Home = () => {
 		<Container>
 			<Grid container spacing={3}>
 				<Grid item sm={12} className={classes.heroSection}>
-					<Typography variant='h1' align='center'>
+					<Typography variant='h3' align='center'>
 						Welcome to InspireMe!
 					</Typography>
 					<Typography variant='h6' align='center'>
